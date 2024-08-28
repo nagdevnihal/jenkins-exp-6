@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Sushant HomePage</h2>
+<h2>Welcome to Rush's HomePage</h2>
 </body>
 </html>
